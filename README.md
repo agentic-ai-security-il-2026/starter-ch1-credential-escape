@@ -17,4 +17,4 @@ Agent privilege escape and defenses (SPIFFE/SPIRE). Diff 3. Priority P1.
 
 ## License
 
-Apache-2.0 (unless noted).
+Apache-2.0 — see `LICENSE`.
