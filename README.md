@@ -1,7 +1,7 @@
 # Ch1 — Credential Escape Room
 
-**Org:** [agentic-ai-security-il-2026](https://github.com/agentic-ai-security-il-2026)  
-**Hub:** [hackathon-hub](https://github.com/agentic-ai-security-il-2026/hackathon-hub) · [Code of Conduct](https://github.com/agentic-ai-security-il-2026/hackathon-hub/blob/main/CODE_OF_CONDUCT.md)
+**Org:** [agentic-ai-security-biu-2026](https://github.com/agentic-ai-security-biu-2026)  
+**Hub:** [hackathon-hub](https://github.com/agentic-ai-security-biu-2026/hackathon-hub) · [Code of Conduct](https://github.com/agentic-ai-security-biu-2026/hackathon-hub/blob/main/CODE_OF_CONDUCT.md)
 
 ## Status
 
