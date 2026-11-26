@@ -1,4 +1,4 @@
-# Student guide — Ch1 Credential Escape Room
+# Student guide — Ch2 Credential Escape Room
 
 **Difficulty:** 3 · **Kickoff:** 13 Dec 2026 · **Deadline:** 22 Dec 2026, 23:59 · Tag: `submission-v1`
 
@@ -9,7 +9,7 @@ Enterprise question: *What’s the blast radius when an agent’s credentials ar
 You get a small multi-service agent stack. **Assume one agent’s credential is stolen.** Measure what it can reach. Then implement **containment** — scoped / short-lived credentials, network boundaries, workload identity patterns (SPIFFE-style) — and measure again.
 
 **In scope:** token scope, TTL, network policy / compose networks, least-privilege service accounts, blast-radius metrics.  
-**Out of scope:** need-to-know *payload* envelopes across hops (that’s Ch2); prompt-only “please don’t use the key”; attacking the shared RH demo control plane.
+**Out of scope:** need-to-know *payload* envelopes across hops (that’s Ch3); prompt-only “please don’t use the key”; attacking the shared RH demo control plane.
 
 ## 2. What we expect
 
@@ -35,8 +35,8 @@ You get a small multi-service agent stack. **Assume one agent’s credential is 
 **Prereqs:** Podman or Docker, Git, ~8–16 GB RAM.
 
 ```bash
-git clone https://github.com/agentic-ai-security-biu-2026/starter-ch1-credential-escape.git
-cd starter-ch1-credential-escape
+git clone https://github.com/agentic-ai-security-biu-2026/starter-ch2-credential-escape.git
+cd starter-ch2-credential-escape
 cp .env.example .env
 podman compose up --build
 podman compose run --rm probe baseline   # measure blast radius

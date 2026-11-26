@@ -1,4 +1,4 @@
-# Scenario card — Ch1 (required)
+# Scenario card — Ch2 (required)
 
 Fill before judging. Synthetic data only — no real secrets or customer data.
 

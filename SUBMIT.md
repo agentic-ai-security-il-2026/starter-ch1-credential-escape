@@ -1,4 +1,4 @@
-# Submit — Ch1
+# Submit — Ch2
 
 - [ ] `SCENARIO.md` completed
 - [ ] `TRACE.md` with baseline + contained reproduction steps

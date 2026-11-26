@@ -1,4 +1,4 @@
-# Ch1 — Credential Escape Room
+# Ch2 — Credential Escape Room
 
 **Difficulty:** 3 · **Mode:** Build + measure · **Theme:** Blast radius after credential compromise  
 

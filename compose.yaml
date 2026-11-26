@@ -3,11 +3,11 @@
 services:
   agent-a:
     image: docker.io/library/python:3.12-slim
-    command: ["python", "-c", "print('ch1 agent-a stub — replace with starter image'); import time; time.sleep(3600)"]
+    command: ["python", "-c", "print('ch2 agent-a stub — replace with starter image'); import time; time.sleep(3600)"]
   agent-b:
     image: docker.io/library/python:3.12-slim
-    command: ["python", "-c", "print('ch1 agent-b stub'); import time; time.sleep(3600)"]
+    command: ["python", "-c", "print('ch2 agent-b stub'); import time; time.sleep(3600)"]
   probe:
     image: docker.io/library/python:3.12-slim
     profiles: ["probe"]
-    command: ["python", "-c", "print('ch1 probe stub — host-notes define real blast-radius checks')"]
+    command: ["python", "-c", "print('ch2 probe stub — host-notes define real blast-radius checks')"]
